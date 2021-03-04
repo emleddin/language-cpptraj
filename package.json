@@ -5,5 +5,9 @@
     "type": "git",
     "url": "git+https://github.com/emleddin/language-cpptraj.git"
   },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "description": "A TextMate grammar for cpptraj.",
   "version": "0.0.0"
 }
