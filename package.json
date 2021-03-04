@@ -1,10 +1,7 @@
 {
   "license": "MIT",
   "name": "language-cpptraj",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/emleddin/language-cpptraj.git"
-  },
+  "repository": "https://github.com/emleddin/language-cpptraj.git",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
