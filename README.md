@@ -3,6 +3,8 @@
 This is a TextMate grammar for cpptraj.
 It will look for `.in`, `.traj`, and `.trajin` file extensions.
 
+![example of syntax highlighting in editor](images/atom-highlight.png)
+
 ## Installation
 You can install this from the Atom Editor as a package.
 You can also install this using the command line:
